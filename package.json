@@ -13,5 +13,6 @@
   "license": "ISC",
   "dependencies": {
     "pm2": "^4.3.0"
-  }
+  },
+  "devDependencies": {}
 }
